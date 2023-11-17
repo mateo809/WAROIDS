@@ -1,0 +1,35 @@
+﻿  game.c
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(3,19): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(4,20): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(52,62): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(83,25): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(87,40): warning C4013: 'cos' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(88,40): warning C4013: 'sin' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(97,26): warning C4305: '-=' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(132,21): warning C4013: 'fminf' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(132,33): warning C4013: 'fmaxf' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(132,21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(128,20): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(156,19): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(157,19): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(195,63): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(215,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(216,35): warning C4013: 'rand' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(227,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\game.c(255,7): warning C4013: 'distance' non défini(e) ; extern retournant int pris par défaut
+  main.c
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(15,19): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(16,20): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(24,9): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(53,28): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(54,35): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(90,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(138,4): warning C4013: 'GameOver' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(142,3): warning C4013: 'victoire' non défini(e) ; extern retournant int pris par défaut
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(161,26): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(168,26): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(191,3): warning C4013: 'printscore' non défini(e) ; extern retournant int pris par défaut
+  Génération de code en cours...
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(226,6): error C2371: 'printscore' : redéfinition ; types de base différents
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(237,6): error C2371: 'GameOver' : redéfinition ; types de base différents
+C:\Users\mateo\source\repos\WAROIDS2\WAROIDS2\main.c(257,6): error C2371: 'victoire' : redéfinition ; types de base différents
